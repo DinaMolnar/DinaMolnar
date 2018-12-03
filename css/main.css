@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 .crop {
- height: 300px;
+ height: auto;
  width: 400px;
  overflow: hidden;
 }
